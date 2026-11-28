@@ -1,0 +1,13 @@
+{
+  "name": "Lumi · 你的聊天搭子",
+  "short_name": "Lumi",
+  "description": "住在你手机里的聊天搭子，数据尽量留在本机。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5b6dff",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
